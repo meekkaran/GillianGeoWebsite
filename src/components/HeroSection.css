@@ -5,8 +5,8 @@ video{
     position:fixed;
     z-index:-1;
 }.hero-container{
-    /*background: url('../images/img-home.jpg')
-        center center/cover no-repeat;*/
+    background: url('./images/img-9.jpg')
+        center center/cover no-repeat;
     height:100vh;
     width:100%;
     display:flex;
