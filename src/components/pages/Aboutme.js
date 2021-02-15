@@ -2,5 +2,7 @@ import React from 'react'
 import '../../App.css';
 
 export  default function Aboutme() {
-    return <h1 className='aboutme'>ABOUT ME</h1>;
+    return <h1 className='Aboutme'>ABOUT ME FTRGOKGMFO;KVOTIG</h1>;
 }
+
+
