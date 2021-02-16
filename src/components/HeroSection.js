@@ -7,8 +7,8 @@ function HeroSection() {
     return (
         <div className='hero-container'>
             <img className="image"  src="./images/img-9.jpg"/>
-            <h1>ADVENTURE AWAITS</h1>
-            <p>What are you witing for?</p>
+            <h1> IAM A NATIONAL GEOGRAPHER</h1>
+            <p>Welcome to my hodophile world let's explore the places that i will travel </p>
             <div className="hero-btns">
                 <Button
                     className='btns'
@@ -22,7 +22,7 @@ function HeroSection() {
                     buttonStyle='btn--primary'
                     buttonSize='btn--large'
                    > 
-                    WATCH TRAILER <i className="far
+                    WATCH MY VIDEOS <i className="far
                      fa-play-circle" />
                 </Button>
             

@@ -5,7 +5,8 @@ import './Cards.css'
 function Cards() {
     return (
         <div className="cards">
-            <h1>Check out these EPIC DESTINATIONS</h1>
+            <h1>MANIFESTING MY FAVOURITE DESTINATIONS</h1>
+            <p>My top 9 countries</p>
             <div className="cards-container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
