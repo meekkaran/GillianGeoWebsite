@@ -6,9 +6,9 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <img className="image"  src="./images/img-9.jpg"/>
-            <h1> IAM A NATIONAL GEOGRAPHER</h1>
-            <p>Welcome to my hodophile world let's explore the places that i will travel </p>
+            <img className="image"  src="./images/us.jpg"/>
+            <h1> IAM A NATIONAL GEOGRAPHIC EXPLORER</h1>
+            <p>Welcome to my hodophile world < br />Let's explore the places that i will travel </p>
             <div className="hero-btns">
                 <Button
                     className='btns'

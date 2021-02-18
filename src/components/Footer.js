@@ -9,7 +9,7 @@ function Footer() {
             <section className="footer-subscription">
                 <p className="footer-subscription-heading">
                     Join the Adventure 
-                    newsletter to receive our best vacation deals
+                    newsletter to receive my best vacation deals
                 </p>
                 <p className="footer-subscription-text">
                     You can unsubscribe at any time
@@ -29,39 +29,35 @@ function Footer() {
             <div className="footer-links">
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
-                        <Link to='/JoinMe'>How it works</Link>
-                        <Link to='/JoinMe'>Testimonials </Link>
-                        <Link to='/JoinMe'>Careers</Link>
+                        <h2>About Me</h2>
+                        <Link to='/JoinMe'>Explorer</Link>
+                        <Link to='/JoinMe'>My career </Link>
                         <Link to='/JoinMe'>Investors</Link>
-                        <Link to='/JoinMe'>How it works</Link>
+                        <Link to='/JoinMe'>How I work</Link>
                     </div>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
-                        <Link to='/JoinMe'>How it works</Link>
-                        <Link to='/JoinMe'>Testimonials </Link>
-                        <Link to='/JoinMe'>Careers</Link>
-                        <Link to='/JoinMe'>Investors</Link>
-                        <Link to='/JoinMe'>How it works</Link>
+                        <h2>Contact Me</h2>
+                        <Link to='/JoinMe'>Contact</Link>
+                        <Link to='/JoinMe'>Support </Link>
+                        <Link to='/JoinMe'>Sponsorships</Link>
+                        <Link to='/JoinMe'>Destinations</Link>
                     </div>
                 </div>
 
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
-                        <Link to='/JoinMe'>How it works</Link>
-                        <Link to='/JoinMe'>Testimonials </Link>
-                        <Link to='/JoinMe'>Careers</Link>
-                        <Link to='/JoinMe'>Investors</Link>
-                        <Link to='/JoinMe'>How it works</Link>
+                        <h2>My Videos</h2>
+                        <Link to='/JoinMe'>Influencer </Link>
+                        <Link to='/JoinMe'>Ambassador</Link>
+                        <Link to='/JoinMe'>Agencies</Link>
                     </div>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
-                        <Link to='/JoinMe'>How it works</Link>
-                        <Link to='/JoinMe'>Testimonials </Link>
-                        <Link to='/JoinMe'>Careers</Link>
-                        <Link to='/JoinMe'>Investors</Link>
-                        <Link to='/JoinMe'>How it works</Link>
+                        <h2>Social Media</h2>
+                        <Link to='/JoinMe'>Facebook</Link>
+                        <Link to='/JoinMe'>Twitter </Link>
+                        <Link to='/JoinMe'>Instagram</Link>
+                        <Link to='/JoinMe'>YouTube</Link>
+                        <Link to='/JoinMe'>LinkedIn</Link>
                     </div>
                 </div>
             </div>
